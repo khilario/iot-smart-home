@@ -222,3 +222,14 @@ machine-learning/smart_grid_july.csv
 machine-learning/**/*.png
 
 .venv/
+
+# Local IoT configuration / credentials
+edge-node/config.py
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor settings
+.vscode/

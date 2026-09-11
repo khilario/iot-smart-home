@@ -4,7 +4,7 @@ A full-stack IoT home automation prototype built around a Raspberry Pi Pico W ed
 
 Developed as a two-person ECE 270 project at the University of Victoria with Matthew Pearson.
 
-![Smart Home Hardware Prototype](images/Wiring.jpg)
+![Smart Home Hardware Prototype](images/hardware.jpg)
 
 ## Overview
 
@@ -89,7 +89,7 @@ This provides bidirectional communication between the physical edge node and the
 
 Node-RED provides the application layer for the system, allowing sensor information to be monitored and actuators to be controlled remotely.
 
-![Node-RED Smart Home Dashboard](images/Dashboard.png)
+![Node-RED Smart Home Dashboard](images/dashboard.png)
 
 The dashboard includes room controls, system status information, environmental monitoring, historical SQLite queries, and energy-use visualization.
 
