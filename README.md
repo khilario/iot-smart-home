@@ -16,7 +16,7 @@ The project was developed incrementally from a locally controlled embedded syste
 
 ### System Architecture
 
-![Smart Home Hardware Prototype](images/system_architecture.jpg)
+![Smart Home Hardware Prototype](images/system-architecture.png)
 
 ## Features
 
