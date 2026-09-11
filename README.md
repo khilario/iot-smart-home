@@ -4,7 +4,7 @@ A full-stack IoT home automation prototype built around a Raspberry Pi Pico W ed
 
 Developed as a two-person ECE 270 project at the University of Victoria with Matthew Pearson.
 
-![Smart Home Hardware Prototype](images/hardware.jpg)
+![Smart Home Hardware Prototype](images/Wiring.jpg)
 
 ## Overview
 
