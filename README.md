@@ -89,7 +89,7 @@ This provides bidirectional communication between the physical edge node and the
 
 Node-RED provides the application layer for the system, allowing sensor information to be monitored and actuators to be controlled remotely.
 
-![Node-RED Smart Home Dashboard](images/dashboard.png)
+![Node-RED Smart Home Dashboard](images/Dashboard.png)
 
 The dashboard includes room controls, system status information, environmental monitoring, historical SQLite queries, and energy-use visualization.
 
