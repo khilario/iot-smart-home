@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated machine-learning data and plots
+machine-learning/smart_grid_july.csv
+machine-learning/**/*.png
+
+.venv/
